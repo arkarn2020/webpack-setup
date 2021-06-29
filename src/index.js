@@ -1,3 +1,5 @@
+import './styles/index.scss';
+
 const recipe = {
   stripes: 2,
   iron: 1,
