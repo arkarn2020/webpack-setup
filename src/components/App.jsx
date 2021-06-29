@@ -16,6 +16,10 @@ function App() {
         </section>
         <img src={mushroom} alt="mushroom in wild" width="250" />
         <Recipes />
+        <img src={strawberry} alt="strawberry in wild" width="250" />
+        <img src={grass} alt="grass in wild" width="250" />
+        <img src={earth} alt="earth in wild" width="250" />
+        <img src={deer} alt="deer in wild" width="250" />
       </main>
     </>
   );
